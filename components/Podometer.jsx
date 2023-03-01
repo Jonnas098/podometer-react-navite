@@ -49,7 +49,7 @@ const Podometer = () => {
       <Svg
         height="50%"
         width="100%" 
-        viewBox={`0 0 ${halfCircle * 2} ${halfCircle * 2}`}>
+        viewBox={`4 0 ${halfCircle * 2} ${halfCircle * 2}`}>
         <G rotation='-90' origin={`${halfCircle}, ${halfCircle}`}>
         <Circle
           cx="50%"
